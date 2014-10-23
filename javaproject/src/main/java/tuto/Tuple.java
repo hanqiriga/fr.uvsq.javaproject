@@ -1,4 +1,4 @@
-package fr.uvsq.javaproject;
+package tuto;
 
 import com.hp.hpl.jena.rdf.model.RDFNode;
 import com.hp.hpl.jena.rdf.model.Resource;

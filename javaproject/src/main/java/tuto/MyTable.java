@@ -1,4 +1,4 @@
-package fr.uvsq.javaproject;
+package tuto;
 
 import java.util.ArrayList;
 import java.util.List;
